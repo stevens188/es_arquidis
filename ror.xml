@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://es.arquidis.com.co/</title>
+  <link>https://es.arquidis.com.co/</link>
+
+<!-- Páginas en español -->
+<item>
+     <link>https://es.arquidis.com.co/inicio.html</link>
+     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
+     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://es.arquidis.com.co/puntos.html</link>
+     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
+     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://es.arquidis.com.co/somos.html</link>
+     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
+     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://es.arquidis.com.co/funciona.html</link>
+     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
+     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://es.arquidis.com.co/es-amp.html</link>
+     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
+     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+
+</channel>
+</rss>
